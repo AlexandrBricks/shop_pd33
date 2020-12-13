@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<ArrayOfEmployee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Employee>
+    <Id>0</Id>
+    <Name>Alex</Name>
+    <Surname>Johns</Surname>
+    <ChiefId>1</ChiefId>
+  </Employee>
+  <Employee>
+    <Id>1</Id>
+    <Name>Wolf</Name>
+    <Surname>Sheff</Surname>
+    <ChiefId>0</ChiefId>
+	<PositionId>1</PositionId>
+  </Employee>
+  <Employee>
+    <Id>2</Id>
+    <Name>Serafim</Name>
+    <Surname>Beats</Surname>
+    <ChiefId>0</ChiefId>
+  </Employee>
+  <Employee>
+    <Id>3</Id>
+    <Name>Wolf</Name>
+    <Surname>Sheff</Surname>
+    <ChiefId>0</ChiefId>
+  </Employee>
+  <Employee>
+    <Id>4</Id>
+    <Name>Aleksiy</Name>
+    <Surname>Likeit</Surname>
+    <ChiefId>-1</ChiefId>
+  </Employee>
+</ArrayOfEmployee>

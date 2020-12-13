@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ArrayOfDescription xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Description>
+    <Id>1</Id>
+    <Information>New info</Information>
+    <ProductId>5</ProductId>
+  </Description>
+  <Description>
+    <Id>2</Id>
+    <Information>Product #1</Information>
+    <ProductId>0</ProductId>
+  </Description>
+</ArrayOfDescription>

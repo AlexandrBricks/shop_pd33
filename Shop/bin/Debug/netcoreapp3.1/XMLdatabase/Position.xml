@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ArrayOfPosition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Position>
+    <Id>0</Id>
+    <Name>Human Resources</Name>
+  </Position>
+  <Position>
+    <Id>1</Id>
+    <Name>Chief</Name>
+  </Position>
+</ArrayOfPosition>
